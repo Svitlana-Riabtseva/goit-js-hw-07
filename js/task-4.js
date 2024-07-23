@@ -1,3 +1,4 @@
+'use strict';
 const submitForm = document.querySelector('.login-form');
 
 submitForm.addEventListener('submit', handleLogin);

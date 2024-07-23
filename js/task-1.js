@@ -1,3 +1,4 @@
+'use strict';
 const cat = document.querySelector('#categories');
 const listItem = cat.querySelectorAll('li.item');
 
